@@ -8,7 +8,7 @@ A mini game made for ludum dare 50 for the theme: "delay the inevitable".
 ![gif3](https://user-images.githubusercontent.com/105895722/169712358-45bc4792-836d-4159-96f3-a08f23fa4a06.gif)
 
 ## Description
-After Countless resumes and interviews later, you finally land yourself an intern position as a new graduate from college. You can't wait to launch your career as you enter the office.
+After countless resumes and interviews later, you finally land yourself an intern position as a new graduate from college. You can't wait to launch your career as you enter the office.
 
 The goal of the game is to complete 100 files assigned by your boss to become a full-time employee!
 
